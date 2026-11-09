@@ -1,0 +1,34 @@
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+using pll = pair<ll,ll>;
+using vll = vector<ll>;
+using sll = set<ll>;
+#define all(u) (u).begin(),(u).end()
+#define yes cout<<"YES"<<endl
+#define no cout<<"NO"<<endl
+#define endl "\n"
+
+void abcd(){
+    ll n; cin>>n;
+
+    ll arr[5]={1,3,6,10,15};
+
+    ll ans=0;
+
+    for(ll i=4;i>=0;i--){
+        ans += (n/arr[i]);
+        n%=arr[i];
+    }
+    cout<<ans<<endl;
+}
+
+int main(){
+ios_base::sync_with_stdio(false);
+cin.tie(NULL);
+    ll t;
+    cin>>t;
+    while(t--){
+        abcd();
+    }
+}
