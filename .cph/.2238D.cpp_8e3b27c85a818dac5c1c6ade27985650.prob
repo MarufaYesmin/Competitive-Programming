@@ -1,0 +1,1 @@
+{"name":"Local: 2238D","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\2238D.cpp","tests":[{"id":1782658707003,"input":"8\n2\n4\n8\n16\n32\n67\n120\n33\n","output":"1\n2\n3\n4\n5\n1\n7\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\2238D.cpp","group":"local","local":true}

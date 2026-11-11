@@ -1,0 +1,1 @@
+{"name":"Local: 2260C","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\2260C.cpp","tests":[{"id":1788881466740,"input":"3\n3 1\n0 5\n6 4\n","output":"4 3\n5 0\n10 4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\2260C.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 2093A","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\2093A.cpp","tests":[{"id":1793155012240,"input":"5\n1\n2\n3\n73\n1000\n","output":"YES\nNO\nYES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\2093A.cpp","group":"local","local":true}

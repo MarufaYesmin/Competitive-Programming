@@ -1,0 +1,1 @@
+{"name":"Local: 26B","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\26B.cpp","tests":[{"id":1788961139917,"input":"(()))(\n","output":"4"},{"id":1788961146518,"input":"((()())\n","output":"6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\26B.cpp","group":"local","local":true}

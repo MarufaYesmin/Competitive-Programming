@@ -1,0 +1,1 @@
+{"name":"Local: 1860A","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\1860A.cpp","tests":[{"id":1787736721291,"input":"4\n)(\n(()\n()\n))()\n","output":"YES\n(())\nYES\n()()()\nNO\nYES\n()(()())\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\1860A.cpp","group":"local","local":true}

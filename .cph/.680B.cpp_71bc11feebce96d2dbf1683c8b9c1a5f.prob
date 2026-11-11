@@ -1,0 +1,1 @@
+{"name":"Local: 680B","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\680B.cpp","tests":[{"id":1780728197724,"input":"6 3\n1 1 1 0 1 0\n","output":"3"},{"id":1780728206003,"input":"5 2\n0 0 0 1 0\n","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\680B.cpp","group":"local","local":true}

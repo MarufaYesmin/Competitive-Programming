@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\B.cpp","tests":[{"id":1787408224225,"input":"4\n00\n01\n111\n110\n","output":"00\n01\n11111\n1010"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\B.cpp","group":"local","local":true}

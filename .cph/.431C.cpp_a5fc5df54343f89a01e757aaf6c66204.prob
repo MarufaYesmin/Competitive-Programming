@@ -1,0 +1,1 @@
+{"name":"Local: 431C","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\431C.cpp","tests":[{"id":1779718877711,"input":"4\n1 2 3 5","output":"NO"},{"id":1779718980841,"input":"4\n1 5 11 5","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\431C.cpp","group":"local","local":true}

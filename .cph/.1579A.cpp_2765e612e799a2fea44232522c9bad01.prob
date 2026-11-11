@@ -1,0 +1,1 @@
+{"name":"Local: 1579A","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\1579A.cpp","tests":[{"id":1787071201345,"input":"6\nABACAB\nABBA\nAC\nABC\nCABCBB\nBCBCBCBCBCBCBCBC\n","output":"NO\nYES\nNO\nNO\nYES\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\1579A.cpp","group":"local","local":true}

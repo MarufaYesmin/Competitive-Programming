@@ -1,0 +1,1 @@
+{"name":"Local: 1473B","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\1473B.cpp","tests":[{"id":1781235822120,"input":"3\nbaba\nba\naa\naaa\naba\nab\n","output":"baba\naaaaaa\n-1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\1473B.cpp","group":"local","local":true}

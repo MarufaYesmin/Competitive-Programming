@@ -1,0 +1,1 @@
+{"name":"Local: 766A","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\766A.cpp","tests":[{"id":1787100224762,"input":"abcd\ndefgh\n","output":"5"},{"id":1787100232070,"input":"a\na\n","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\766A.cpp","group":"local","local":true}

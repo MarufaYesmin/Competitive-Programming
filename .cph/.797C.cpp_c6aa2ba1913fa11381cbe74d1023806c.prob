@@ -1,0 +1,1 @@
+{"name":"Local: 797C","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\797C.cpp","tests":[{"id":1789048286575,"input":"cab\n","output":"abc\n"},{"id":1789048295092,"input":"acdb\n","output":"abdc\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\797C.cpp","group":"local","local":true}

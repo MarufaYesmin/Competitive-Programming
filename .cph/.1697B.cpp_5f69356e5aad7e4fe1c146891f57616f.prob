@@ -1,0 +1,1 @@
+{"name":"Local: 1697B","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\1697B.cpp","tests":[{"id":1787737858515,"input":"5 3\n5 3 1 5 2\n3 2\n1 1\n5 3\n","output":"8\n5\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\1697B.cpp","group":"local","local":true}

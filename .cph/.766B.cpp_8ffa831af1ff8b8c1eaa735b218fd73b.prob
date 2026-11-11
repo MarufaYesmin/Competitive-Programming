@@ -1,0 +1,1 @@
+{"name":"Local: 766B","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\766B.cpp","tests":[{"id":1785744426590,"input":"5\n1 5 3 2 4\n","output":"YES"},{"id":1785744431597,"input":"3\n4 1 2\n","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\766B.cpp","group":"local","local":true}

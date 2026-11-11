@@ -1,0 +1,1 @@
+{"name":"Local: 1213A","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\1213A.cpp","tests":[{"id":1784602594019,"input":"3\n1 2 3\n","output":"1"},{"id":1784602603595,"input":"5\n2 2 2 3 3\n","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\1213A.cpp","group":"local","local":true}

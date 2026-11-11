@@ -1,0 +1,1 @@
+{"name":"Local: 1674C","url":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\1674C.cpp","tests":[{"id":1787318928470,"input":"3\naaaa\na\naa\nabc\na\nb\n","output":"1\n-1\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Barisal Laptop House\\Desktop\\CP_CF\\1674C.cpp","group":"local","local":true}
